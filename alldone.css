@@ -1,0 +1,33 @@
+#alldonehtml {
+    font-family: bitter;
+    font-size: 100px;
+    text-align: center;
+}
+#thankyouhtml {
+    font-family: century-gothic;
+    font-size: 40px;
+}
+#btnHome {
+    background-color: #EFEEEF;
+}
+.contact-info {
+    display: flex;
+  justify-content: space-around;
+  font-size: 1.2vw;
+  font-family: verdana !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#addressLoc {
+    font-family: century-gothic;
+    font-size: 25px;
+}
+#unorderedList {
+    font-family: century-gothic;
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+}
+#unorderedList li{
+    margin-bottom: 25px;
+}
